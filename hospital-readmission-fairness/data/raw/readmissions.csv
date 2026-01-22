@@ -1,0 +1,11 @@
+age,gender,race,num_procedures,num_medications,time_in_hospital,has_diabetes,readmitted_30
+65,Male,White,3,12,5,1,1
+72,Female,Black,4,15,7,1,1
+50,Male,White,1,8,3,0,0
+45,Female,Asian,2,6,2,0,0
+80,Female,White,5,20,10,1,1
+60,Male,Hispanic,2,10,4,0,0
+55,Female,Black,3,11,6,1,1
+40,Male,White,1,5,2,0,0
+68,Female,White,4,14,8,1,1
+58,Male,Asian,2,9,4,0,0
